@@ -6,7 +6,7 @@ Content is available under Attribution2.5:
 
 https://creativecommons.org/licenses/by/2.5/
 
-ColorMaps.xml is from the ParaView installation, available via a BSD license:  https://opensource.org/licenses/BSD-3-Clause
+ColorMaps5.* are from the ParaView installation, available via a BSD license:  https://opensource.org/licenses/BSD-3-Clause
 
 Copyright (c) 2005-2017 National Technology & Engineering Solutions of Sandia, LLC (NTESS), Kitware Inc.
 Sandia National Laboratories, New Mexico PO Box 5800 Albuquerque, NM 87185
