@@ -5261,12 +5261,6 @@
 	{
 		"ColorSpace" : "Lab",
 		"Name" : "erdc_blue2green_BW",
-		"NanColor" : 
-		[
-			0,
-			0,
-			0
-		],
 		"RGBPoints" : 
 		[
 			-1,
